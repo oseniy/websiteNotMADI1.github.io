@@ -1,0 +1,16 @@
+.order  {
+  .col-lg-4 { padding: 0px 80px; }
+img {
+/*  border: 1px solid black;*/
+  margin-bottom: 10px;
+  width: 300px;}
+   .text1 {
+    font-size: 15pt;
+    font-weight: 700;
+    color: #000;
+  }
+  .text2 {
+    padding: 15px 60px;
+  }
+  button {width: 170px;}
+}
